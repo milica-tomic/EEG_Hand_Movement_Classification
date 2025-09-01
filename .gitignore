@@ -1,0 +1,42 @@
+# MATLAB/GUIDE specific
+# ========================
+
+# Auto-saved files
+*.asv
+*.m~
+*.autosave
+
+# Compiled binaries and generated code
+.mex
+codegen/
+slprj/
+sccprj/
+
+# Packaged apps and toolboxes
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch/
+
+# GUIDE specific
+# ========================
+# The .fig file and the corresponding .m file are the source files for a GUIDE GUI.
+# You generally want to track these.
+# However, you might have temporary or backup files related to them.
+
+# IDE-specific
+# ========================
+.project/
+.idea/
+.vscode/
+
+# Operating System Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# Other common temporary files
+# ========================
+*.log
+*.bak
